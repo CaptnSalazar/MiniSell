@@ -1,0 +1,2 @@
+# MiniSell
+BUY AND SELL APP ON THE GO
